@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Faker",
+    "role": "Mid",
+    "region": "Eune",
+    "rank": "Challenger",
+"photo": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/league-of-legends-faker-world-championship-2025.jpg?w=1600&h=900&fit=crop",
+    "comment": "I love this game"
+  },
+  {
+    "id": 2,
+    "name": "Ruler",
+    "role": "ADC",
+    "region": "Eune",
+    "rank": "Challenger",
+"photo": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/league-of-legends-faker-world-championship-2025.jpg?w=1600&h=900&fit=crop",
+    "comment": "I hate this game"
+  },
+  {
+    "id": 3,
+    "name": "Knight",
+    "role": "Mid",
+    "region": "Eune",
+    "rank": "Challenger",
+"photo": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/league-of-legends-faker-world-championship-2025.jpg?w=1600&h=900&fit=crop"
+    , "comment": "This game is okay"
+  }
+]
+  
