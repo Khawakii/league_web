@@ -1,7 +1,6 @@
-/* Example styles from your original design */
 
 .bgcolor {
-  background-color: rgb(162, 162, 175);
+  background-image: url('@/assets/img/rift.png');
 }
 
 .font {
@@ -220,4 +219,21 @@ font-size: 40px;
 .gallery{
 background-color: #091623;
 
+}
+/* Kinyilo reszek*/
+/*ACCORDION BODY BACKGROUND*/
+.accordion-body {
+  background-color: #eceef0;
+}
+
+/*TEEMO*/
+.under-dev {
+  min-height: 70vh;           /* Ensure it takes at least 70% of viewport height */
+   padding: 8rem 1rem 4rem;            /* top, sides, bottom */
+}
+
+.under-dev__image {
+  width: 220px;               
+  height: auto;
+  object-fit: contain;
 }

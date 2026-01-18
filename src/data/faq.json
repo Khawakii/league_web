@@ -1,42 +1,42 @@
 [
   {
-    "question": "What types of medicines do you offer?",
-    "answer": "We provide a wide range of medicines, including prescription drugs, over-the-counter medications, and specialized treatments developed through our research."
+    "question": "What is League of Legends?",
+    "answer": "League of Legends (LoL) is a free-to-play multiplayer online battle arena (MOBA) game developed by Riot Games, where two teams of five players compete to destroy the enemy Nexus."
   },
   {
-    "question": "Can I buy medicines online?",
-    "answer": "Yes, you can purchase medicines online through our secure platform. Simply browse our catalog, add items to your cart, and place an order."
+    "question": "Is League of Legends free to play?",
+    "answer": "Yes, League of Legends is completely free to play. You can unlock champions through gameplay or purchase cosmetic items like skins."
   },
   {
-    "question": "Do you offer delivery services?",
-    "answer": "Yes, we provide fast and reliable delivery services. You can choose between standard or express delivery during checkout."
+    "question": "How many champions are in League of Legends?",
+    "answer": "League of Legends features over 160 unique champions, each with distinct abilities, roles, and playstyles."
   },
   {
-    "question": "Are your medicines approved by regulatory bodies?",
-    "answer": "Absolutely. All our medicines comply with strict regulatory standards and are approved by certified health authorities."
+    "question": "What game modes does League of Legends offer?",
+    "answer": "Popular game modes include Summoner’s Rift, ARAM, Teamfight Tactics (TFT), and rotating limited-time modes."
   },
   {
-    "question": "What research areas does your company focus on?",
-    "answer": "Our research focuses on developing innovative medicines for chronic diseases, rare disorders, and improving drug efficacy."
+    "question": "What roles can I play in the game?",
+    "answer": "The main roles are Top, Jungle, Mid, ADC (Bot), and Support, each with different responsibilities during the match."
   },
   {
-    "question": "Can I consult with a pharmacist or researcher?",
-    "answer": "Yes, our expert pharmacists and researchers are available to provide guidance on medications and answer any queries you may have."
+    "question": "Can I play League of Legends with friends?",
+    "answer": "Yes, you can invite friends to your party and play together in normal games, ranked matches, or custom games."
   },
   {
-    "question": "Do you conduct clinical trials?",
-    "answer": "Yes, we actively conduct clinical trials to ensure the safety and efficacy of our medicines. Our trials adhere to international standards."
+    "question": "What is ranked mode in League of Legends?",
+    "answer": "Ranked mode is a competitive queue where players are matched based on skill and can climb ranks from Iron up to Challenger."
   },
   {
-    "question": "What makes your medicines different from others?",
-    "answer": "Our medicines are developed using cutting-edge research and innovative technologies, ensuring high-quality, effective, and safe treatments."
+    "question": "What are skins in League of Legends?",
+    "answer": "Skins are cosmetic items that change a champion’s appearance, animations, and sometimes voice lines, without affecting gameplay."
   },
   {
-    "question": "How do I store the medicines I purchase?",
-    "answer": "Each medicine comes with specific storage instructions. Generally, keep them in a cool, dry place away from sunlight and out of reach of children."
+    "question": "How often does League of Legends get updates?",
+    "answer": "Riot Games releases regular patches that include balance changes, new champions, skins, and gameplay improvements."
   },
   {
-    "question": "How can I participate in your research programs?",
-    "answer": "You can join our research programs by signing up on our website. We are always looking for participants willing to contribute to groundbreaking medical discoveries."
+    "question": "Is League of Legends an esport?",
+    "answer": "Yes, League of Legends is one of the biggest esports titles in the world, featuring professional leagues and international tournaments like Worlds."
   }
 ]

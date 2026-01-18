@@ -9,9 +9,9 @@ const router = createRouter({
       component: () => import('@/views/HomeView.vue'),
     },
     {
-      path: '/researchers',
-      name: 'researchers',
-      component: () => import('@/views/ResearcherView.vue'),
+      path: '/summoners',
+      name: 'summoners',
+      component: () => import('@/views/SummonerView.vue'),
     },
     {
       path: '/products',
@@ -28,7 +28,15 @@ const router = createRouter({
       name: 'cart',
       component: () => import('@/views/CartView.vue'),
     },
-    
+    {
+  path: '/under-development',
+  component: () => import('@/views/UnderDevelopmentView.vue')
+},
+/* "404" route - keep this as the last route */
+ {
+    path: '/:pathMatch(.*)*',  // mindent elkap, ami nem létezik
+    redirect: '/'              // visszadob a Home-ra
+  },
   ],
 })
 

@@ -14,9 +14,9 @@ import ProductsComponent from '@/components/ProductsComponent.vue'
 import CartButton from '@/components/CartButton.vue'
 import { useCartStore } from '@/stores/cartStore'
 
-import medicine1 from '@/assets/img/medicine1.jpg'
-import medicine2 from '@/assets/img/medicine2.jpg'
-import medicine3 from '@/assets/img/medicine3.jpg'
+import urf from '@/assets/img/urf.webp'
+import cicmic from '@/assets/img/cicmic.webp'
+import pengu from '@/assets/img/pengu.webp'
 
 export default defineComponent({
   name: 'ProductsView',
@@ -29,24 +29,45 @@ export default defineComponent({
       products: [
         {
           id: 1,
-          name: 'Medicine 1',
-          description: 'High-quality medicine for your health needs.',
-          price: 29.99,
-          image: medicine1,
+          name: 'Urf plushie',
+          description: 'urf is the best plushie ever made.',
+          price: 59.99,
+          image: urf,
         },
         {
           id: 2,
-          name: 'Medicine 2',
-          description: 'Advanced formula for better well-being.',
-          price: 39.99,
-          image: medicine2,
+          name: 'Cicmic plushie',
+          description: 'cicmic is the second best plushie ever made.',
+          price: 48.99,
+          image: cicmic,
         },
         {
           id: 3,
-          name: 'Medicine 3',
-          description: 'Premium healthcare solution, for our premium customers.',
-          price: 49.99,
-          image: medicine3,
+          name: 'Pengu plushie',
+          description: 'Pengu is the third best plushie ever made.',
+          price: 63.99,
+          image: pengu,
+        },
+           {
+          id: 1,
+          name: 'Urf plushie',
+          description: 'urf is the best plushie ever made.',
+          price: 59.99,
+          image: urf,
+        },
+        {
+          id: 2,
+          name: 'Cicmic plushie',
+          description: 'cicmic is the second best plushie ever made.',
+          price: 48.99,
+          image: cicmic,
+        },
+        {
+          id: 3,
+          name: 'Pengu plushie',
+          description: 'Pengu is the third best plushie ever made.',
+          price: 63.99,
+          image: pengu,
         },
       ],
     }

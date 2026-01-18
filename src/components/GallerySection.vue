@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <div class="row align-items-center">
 
-        <!-- LEFT SIDE: TEXT -->
+        <!-- TEXT -->
         <div class="col-md-6 text-start">
           <h3 class="p-2">Maps</h3>
           <p class="px-2">
@@ -15,7 +15,9 @@ the Summoner's Cup, or the one and only annual World Champion.
           </p>
         </div>
 
-        <!-- RIGHT SIDE: CAROUSEL -->
+
+
+        <!-- CAROUSEL -->
         <div class="col-md-6">
           <div
             id="carouselExampleCaptions"

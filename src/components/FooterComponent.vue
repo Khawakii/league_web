@@ -8,7 +8,7 @@
         <div class="col-md p-4">
           <p class="lead">
              Don't try it kids, it's addictive<br />
-            Just play Minecraft or smt <i class="bi bi-bootstrap"></i>
+            Just play smt else <i class="bi bi-bootstrap"></i>
           </p>
         </div>
 

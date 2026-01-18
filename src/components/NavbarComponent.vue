@@ -49,9 +49,10 @@ export default defineComponent({
     return {
       menuItems: {
         Home: '/',
-        Researchers: '/researchers',
+        Summoners: '/summoners',
         Products: '/products',
         FAQ: '/faq',
+        Cart: '/cart',
       },
       isCollapsed: true,
     }

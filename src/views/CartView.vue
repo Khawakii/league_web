@@ -96,6 +96,9 @@ export default defineComponent({
     },
     checkout() {
       alert('Thank you for your purchase!')
+       const cartStore = useCartStore()
+  cartStore.cartItems = []
+  localStorage.removeItem('cart')
     },
   },
 })

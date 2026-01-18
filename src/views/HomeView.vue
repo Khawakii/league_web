@@ -14,11 +14,11 @@ import GallerySection from "@/components/GallerySection.vue";
              Whether you like to dive straight into the fray, support your teammates, or something in between,
               there’s a spot for you on the Rift.
             </p>
-             <router-link to="/playnow">
+             <router-link to="/under-development">
               <button class="btn btn-info">Play now!</button>
             </router-link>
 
-            <router-link to="/discover">
+            <router-link to="/under-development">
               <button class="btn btn-warning">Discover your champion!</button>
             </router-link>
 
@@ -63,8 +63,6 @@ import GallerySection from "@/components/GallerySection.vue";
 <!-- Gallery-->
 <GallerySection />
 <!-- Gallery end-->
-
-
 
 
   </div>
