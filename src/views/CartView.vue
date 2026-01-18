@@ -1,13 +1,13 @@
 <template>
-  <div class="container mt-5 pt-5">
+  <div class="container mt-5 pt-5" >
     <h1 class="font text-center mb-4">Shopping Cart</h1>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center" >
       <div class="col-lg-8">
         <div class="card shadow">
-          <div class="card-body">
-            <div v-if="cartItems.length === 0" class="text-center py-4">
+          <div class="card-body" >
+            <div v-if="cartItems.length === 0" class="text-center py-4" >
               <p class="mb-4">Your cart is empty</p>
-              <router-link to="/products" class="btn btn-primary">Continue Shopping</router-link>
+              <router-link to="/products" class="btn btn-info px-4">Continue Shopping</router-link>
             </div>
             <div v-else>
               <div

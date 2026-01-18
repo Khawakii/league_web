@@ -237,3 +237,13 @@ background-color: #091623;
   height: auto;
   object-fit: contain;
 }
+
+/* navbar */
+.nav-link.active {
+  font-weight: bold;
+}
+
+
+.card-body {
+  background-color: #fbfbfb;
+}
