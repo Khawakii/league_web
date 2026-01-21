@@ -247,3 +247,8 @@ background-color: #091623;
 .card-body {
   background-color: #fbfbfb;
 }
+
+/* navbar end */
+.nav-link.active {
+  font-weight: bold;
+}

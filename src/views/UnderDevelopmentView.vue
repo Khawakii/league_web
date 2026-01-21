@@ -21,14 +21,4 @@
 </template>
 
 <style scoped>
-.under-dev {
-  min-height: 70vh;           /* vertically center container */
-   padding: 8rem 1rem 4rem;            /* horizontal padding for smaller screens */
-}
-
-.under-dev__image {
-  width: 220px;               /* slightly smaller for better balance */
-  height: auto;
-  object-fit: contain;
-}
 </style>

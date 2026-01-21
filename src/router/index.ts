@@ -34,8 +34,8 @@ const router = createRouter({
 },
 /* "404" route - keep this as the last route */
  {
-    path: '/:pathMatch(.*)*',  // mindent elkap, ami nem létezik
-    redirect: '/'              // visszadob a Home-ra
+    path: '/:pathMatch(.*)*',
+    redirect: '/'
   },
   ],
 })

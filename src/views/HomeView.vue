@@ -12,7 +12,7 @@ import GallerySection from "@/components/GallerySection.vue";
             <h1>Choose your champion!</h1>
             <p class="lead my-4">
              Whether you like to dive straight into the fray, support your teammates, or something in between,
-              there’s a spot for you on the Rift.
+              there's a spot for you on the Rift.
             </p>
              <router-link to="/under-development">
               <button class="btn btn-info">Play now!</button>

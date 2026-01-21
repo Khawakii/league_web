@@ -28,7 +28,7 @@
 
       <!-- NAV CONTENT -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <!-- LEFT MENU -->
+        <!-- LEFT MENU PART-->
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li
             v-for="(link, name) in menuItems"
@@ -45,7 +45,7 @@
           </li>
         </ul>
 
-        <!-- RIGHT: CART BUTTON -->
+        <!-- CART BUTTON -->
         <CartButton />
       </div>
     </div>
@@ -74,8 +74,3 @@ export default defineComponent({
 })
 </script>
 
-<style scoped>
-.nav-link.active {
-  font-weight: bold;
-}
-</style>
